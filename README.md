@@ -2,12 +2,12 @@
 
 ![](Jogo.gif)
 # Introdução
-Nesse jogo, o jogador deve desenhar os "sinais" que aparecem na cabeça dos zumbis para matá-los.
+Nesse game, o jogador deve desenhar os "sinais" que aparecem na cabeça dos zumbis para matá-los.
 
 A inspiração veio do jogo "gatinho feiticeiro" da Google , link: https://www.google.com/doodles/halloween-2016 .
 # Como jogar
 
-Para desenhar, é necessário dar um clique dentro da área e depois dar outro clique para finalizar, ou seja, não é necessário manter o mouse pressionado.
+Para desenhar, é necessário dar um clique dentro da área e depois dar outro clique para finalizar, ou seja, não é preciso manter o mouse pressionado.
 - Para dar pause ou retirar do pause é so teclar "p".
 # Bibliotecas
 As seguintes bibliotecas são necessárias para que o jogo funcione.
